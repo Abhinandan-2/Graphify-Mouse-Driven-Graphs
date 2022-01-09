@@ -1,0 +1,21 @@
+5
+A 20 60
+B 45 90
+C 30 30
+D 65 75
+F 55 25
+14
+A B 3
+A C 7
+B A 3
+B C 2
+B D 10
+B F 9
+C A 7
+C B 2
+C F 3
+D B 10
+D F 2
+F B 9
+F C 3
+F D 2
